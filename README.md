@@ -1,2 +1,2 @@
-# CSE3_HTML
+# CSE3_Lab_Manual_Experiment
 Learning web designing
